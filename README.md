@@ -1,12 +1,11 @@
 <div align="center">
 
+### Welcome to the GitHub portfolio page of Iwan Bork!
 
-# Welcome Projects
+# My Projects
 
 ## Table of Contents
 <a href="#project-one">Project One</a><br>
-<a href="#project-two">Project Two</a><br>
-<a href="#project-three">Project Three</a>
 
 ---
 
@@ -30,33 +29,6 @@
 
 **Description:** Short description of Project One.
 
-
----
-
-
-## Project Two [🔝](#menu)
-<div align="center">
-<a href="https://github.com/your-username/project-two">
-<img src="https://media.giphy.com/media/your-gif-link2/giphy.gif" width="250" />
-</a>
-</div>
-
-
-**Description:** Short description of Project Two.
-
-
----
-
-
-## Project Three [🔝](#menu)
-<div align="center">
-<a href="https://github.com/your-username/project-three">
-<img src="https://media.giphy.com/media/your-gif-link3/giphy.gif" width="250" />
-</a>
-</div>
-
-
-**Description:** Short description of Project Three.
 
 
 ---
