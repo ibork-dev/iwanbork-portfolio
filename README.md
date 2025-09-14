@@ -13,14 +13,6 @@ Over the course of my life, I've completed various projects that I'd like to pre
 
 ### Software Engineering Projects
 
----
-
-<div align="center">
-<img src="https://media.giphy.com/media/your-gif-link1/giphy.gif" width="200" />
-<img src="https://media.giphy.com/media/your-gif-link2/giphy.gif" width="200" />
-<img src="https://media.giphy.com/media/your-gif-link3/giphy.gif" width="200" />
-</div>
-
 
 ---
 
@@ -34,7 +26,6 @@ Over the course of my life, I've completed various projects that I'd like to pre
 
 
 **Description:** Short description of Project One.
-
 
 
 ---
