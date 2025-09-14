@@ -8,7 +8,10 @@ Over the course of my life, I've completed various projects that I'd like to pre
 
 
 ## Table of Contents
+### Computer Vision Projects
 <a href="#project-one">Project One</a><br>
+
+### Software Engineering Projects
 
 ---
 
