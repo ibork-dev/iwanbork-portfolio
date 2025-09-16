@@ -13,6 +13,8 @@ Over the course of my life, I've completed various projects that I'd like to pre
 
 ### Software Engineering Projects
 
+<a href="#portfolio">Portfolio Website</a><br>
+
 
 ---
 
@@ -21,10 +23,16 @@ Over the course of my life, I've completed various projects that I'd like to pre
 </h2>
 <img src="https://github.com/ibork-dev/people-detection-without-ai/blob/main/output_video.gif" width="400" />
 
-
-
 **Description:** People detection using classical image processing techniques (HOG, SIFT, Kalman filtering).
 
+---
+
+<h2 id="portfolio">
+  <a href="https://github.com/ibork-dev/portfolio-website-iwanbork">Portfolio Website</a>
+</h2>
+<img src="https://github.com/ibork-dev/portfolio-website-iwanbork/blob/main/portfolio-website.gif" width="400" />
+
+**Description:** Personal website of Iwan Bork. Made with React (Javascript).
 
 ---
 
