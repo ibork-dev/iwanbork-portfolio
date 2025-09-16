@@ -16,11 +16,10 @@ Over the course of my life, I've completed various projects that I'd like to pre
 
 ---
 
-<a href="https://github.com/ibork-dev/people-detection-without-ai">
-<h2>
+<h2 id="bipa2">
   People Detection without AI
 </h2>
-</a>
+<a href="https://github.com/ibork-dev/people-detection-without-ai">To the project</a>
 <img src="https://github.com/ibork-dev/people-detection-without-ai/blob/main/output_video.gif" width="400" />
 
 
