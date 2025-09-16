@@ -16,13 +16,13 @@ Over the course of my life, I've completed various projects that I'd like to pre
 
 ---
 
-
-## People Detection without AI
-<div align="center" id="bipa2>
 <a href="https://github.com/ibork-dev/people-detection-without-ai">
-<img src="https://github.com/ibork-dev/people-detection-without-ai/blob/main/output_video.gif" width="250" />
+<h2>
+  People Detection without AI
+</h2>
+<img src="https://github.com/ibork-dev/people-detection-without-ai/blob/main/output_video.gif" width="400" />
 </a>
-</div>
+
 
 
 **Description:** Short description of Project One.
