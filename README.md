@@ -19,7 +19,7 @@ Over the course of my life, I've completed various projects that I'd like to pre
 <h2 id="bipa2">
   <a href="https://github.com/ibork-dev/people-detection-without-ai">People Detection without AI</a>
 </h2>
-<img src="https://github.com/ibork-dev/people-detection-without-ai/blob/main/output_video.gif" width="400" />
+<img src="https://github.com/ibork-dev/people-detection-without-ai/blob/main/output.gif" width="400" />
 
 
 
