@@ -20,8 +20,8 @@ Over the course of my life, I've completed various projects that I'd like to pre
 <h2>
   People Detection without AI
 </h2>
-<img src="https://github.com/ibork-dev/people-detection-without-ai/blob/main/output_video.gif" width="400" />
 </a>
+<img src="https://github.com/ibork-dev/people-detection-without-ai/blob/main/output_video.gif" width="400" />
 
 
 
