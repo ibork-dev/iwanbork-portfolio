@@ -10,6 +10,7 @@ Over the course of my life, I've completed various projects that I'd like to pre
 ## Table of Contents
 ### Computer Vision Projects
 <a href="#bipa2">People Detection without AI</a><br>
+<a href="#bipa1">m,n,k-Game Checker</a><br>
 
 ### Software Engineering Projects
 
@@ -24,6 +25,15 @@ Over the course of my life, I've completed various projects that I'd like to pre
 <img src="https://github.com/ibork-dev/people-detection-without-ai/blob/main/output_video.gif" width="400" />
 
 **Description:** People detection using classical image processing techniques (HOG, SIFT, Kalman filtering).
+
+---
+
+<h2 id="bipa1">
+  <a href="https://github.com/ibork-dev/mnk-game-checker">m,n,k-Game Checker</a>
+</h2>
+<img src="https://github.com/ibork-dev/mnk-game-checker/blob/main/mnk-game-examples.gif" width="400" />
+
+**Description:** Checks if a m,n,k-Game (Tic-Tac-Toe extension) is valid and which player won.
 
 ---
 
