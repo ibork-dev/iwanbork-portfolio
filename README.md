@@ -9,7 +9,7 @@ Over the course of my life, I've completed various projects that I'd like to pre
 
 ## Table of Contents
 ### Computer Vision Projects
-<a href="#bipa2">People Detection without AI</a> (HOG, SIFT, Kalman)<br>
+<a href="#bipa2">People Detection without AI</a><br>
 
 ### Software Engineering Projects
 
@@ -23,7 +23,7 @@ Over the course of my life, I've completed various projects that I'd like to pre
 
 
 
-**Description:** Short description of Project One.
+**Description:** People detection using classical image processing techniques (HOG, SIFT, Kalman filtering).
 
 
 ---
