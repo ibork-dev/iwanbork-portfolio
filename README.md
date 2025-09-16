@@ -9,7 +9,7 @@ Over the course of my life, I've completed various projects that I'd like to pre
 
 ## Table of Contents
 ### Computer Vision Projects
-<a href="#bipa2">People Detection without AI (HOG, SIFT, Kalman)</a><br>
+<a href="#bipa2">People Detection without AI</a> (HOG, SIFT, Kalman)<br>
 
 ### Software Engineering Projects
 
@@ -18,8 +18,8 @@ Over the course of my life, I've completed various projects that I'd like to pre
 
 
 ## People Detection without AI
-<div align="center" id="#bipa2>
-<a href="[https://github.com/your-username/project-one](https://github.com/ibork-dev/people-detection-without-ai)">
+<div align="center" id="bipa2>
+<a href="https://github.com/ibork-dev/people-detection-without-ai">
 <img src="https://github.com/ibork-dev/people-detection-without-ai/blob/main/output_video.gif" width="250" />
 </a>
 </div>
