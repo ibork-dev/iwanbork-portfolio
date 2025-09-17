@@ -11,7 +11,8 @@ Over the course of my life, I've completed various projects that I'd like to pre
 ### Computer Vision Projects
 
 <a href="#sinogramreconstruction">CT Sinogram Reconstruction</a><br>
-<a href="mrifiles">Working with NIfTI (MRI Files)</a><br>
+<a href="#mrifiles">MRI Data Reconstruction</a><br>
+<a href="#xai">Explainable AI</a><br>
 <a href="#bipa2">People Detection without AI</a><br>
 <a href="#bipa1">m,n,k-Game Checker</a><br>
 <a href="#dmmlkagglechallenge2023">Kaggle Machine Learning Challenge PPKE 2023</a><br>
@@ -33,11 +34,20 @@ Over the course of my life, I've completed various projects that I'd like to pre
 ---
 
 <h2 id="mrifiles">
-  <a href="https://github.com/ibork-dev/mri-files">Working with NIfTI (MRI Files)</a>
+  <a href="https://github.com/ibork-dev/mri-files">MRI Data Reconstruction</a>
 </h2>
 <img src="https://github.com/ibork-dev/mri-files/blob/main/image.png" width="400" />
 
 **Description:** Work with NIfTI files to display brain images from different angles.
+
+---
+
+<h2 id="xai">
+  <a href="https://github.com/ibork-dev/explainable-ai">Explainable AI</a>
+</h2>
+<img src="https://github.com/ibork-dev/explainable-ai/blob/main/image.png" width="400" />
+
+**Description:** Creating different explainers to show what the neural network perceives.
 
 ---
 
