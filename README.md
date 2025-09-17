@@ -27,7 +27,7 @@ Over the course of my life, I've completed various projects that I'd like to pre
 </h2>
 <img src="https://github.com/ibork-dev/ct-sinogram-reconstruction/blob/main/image.png" width="400" />
 
-**Description:** People detection using classical image processing techniques (HOG, SIFT, Kalman filtering).
+**Description:** Reconstruction of CT raw data (sinograms).
 
 ---
 
