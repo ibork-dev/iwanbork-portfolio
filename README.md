@@ -13,6 +13,7 @@ Over the course of my life, I've completed various projects that I'd like to pre
 <a href="#sinogramreconstruction">CT Sinogram Reconstruction</a><br>
 <a href="#mrifiles">MRI Data Reconstruction</a><br>
 <a href="#xai">Explainable AI</a><br>
+<a href="#chessaux">Chessaux</a><br>
 <a href="#bipa2">People Detection without AI</a><br>
 <a href="#bipa1">m,n,k-Game Checker</a><br>
 <a href="#dmmlkagglechallenge2023">Kaggle Machine Learning Challenge PPKE 2023</a><br>
@@ -49,6 +50,14 @@ Over the course of my life, I've completed various projects that I'd like to pre
 
 **Description:** Creating different explainers to show what the neural network perceives.
 
+---
+
+<h2 id="chessaux">
+  <a href="https://github.com/ibork-dev/explainable-ai">Chessaux</a>
+</h2>
+<img src="https://github.com/ibork-dev/chessaux/blob/main/chessaux_video.gif" width="400" />
+
+**Description:** Android application to analyze real-time chess matches.
 ---
 
 <h2 id="bipa2">
