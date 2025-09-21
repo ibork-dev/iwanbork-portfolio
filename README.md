@@ -14,6 +14,7 @@ Over the course of my life, I've completed various projects that I'd like to pre
 <a href="#mrifiles">MRI Brain Data Reconstruction</a><br>
 <a href="#xai">Explainable AI</a><br>
 <a href="#chessaux">Chessaux</a><br>
+<a href="#am4ip">Image Segmentation after Denoising for Autonomous Driving</a><br>
 <a href="#bipa2">People Detection without AI</a><br>
 <a href="#bipa1">m,n,k-Game Checker</a><br>
 <a href="#dmmlkagglechallenge2023">Kaggle Machine Learning Challenge PPKE 2023</a><br>
@@ -56,6 +57,15 @@ Over the course of my life, I've completed various projects that I'd like to pre
   <a href="https://github.com/ibork-dev/explainable-ai">Chessaux</a>
 </h2>
 <img src="https://github.com/ibork-dev/chessaux/blob/main/chessaux_video.gif" width="400" />
+
+**Description:** Android app lication to analyze real-time chess matches.
+
+---
+
+<h2 id="am4ip">
+  <a href="https://github.com/ibork-dev/denoising-for-segmentation">Image Segmentation after Denoising for Autonomous Driving</a>
+</h2>
+<img src="https://github.com/ibork-dev/denoising-for-segmentation/blob/main/image.png" width="400" />
 
 **Description:** Android app lication to analyze real-time chess matches.
 
