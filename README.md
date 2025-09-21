@@ -67,7 +67,7 @@ Over the course of my life, I've completed various projects that I'd like to pre
 </h2>
 <img src="https://github.com/ibork-dev/denoising-for-segmentation/blob/main/image.png" width="400" />
 
-**Description:** Android app lication to analyze real-time chess matches.
+**Description:** Image segmentation task of a noisy dataset. First, denoising was applied to be able to predict the correct labels for each pixel.
 
 ---
 
