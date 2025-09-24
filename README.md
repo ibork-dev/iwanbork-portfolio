@@ -1,6 +1,6 @@
 <div align="center">
 
-# Project Portfolio Iwan Bork
+# Project Portfolio Iwan Bork (still under construction)
 
 Hi everyone! I'm Iwan Bork, a passionate computer vision engineer!
 I studied Cognitive Informatics for my bachelor's degree at Bielefeld University, Germany, where I studied the fundamentals of computer science, specializing in computer vision and image processing. This sparked my interest in this field, and I subsequently completed an Erasmus Mundus master's program in image processing and computer vision, where I studied in Budapest, Madrid, and Bordeaux.
