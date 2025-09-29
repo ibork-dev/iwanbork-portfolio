@@ -54,7 +54,7 @@ Over the course of my life, I've completed various projects that I'd like to pre
 
 ---
  
-<h2 id="xai">
+<h2 id="bachelor">
   <a href="https://github.com/ibork-dev/bachelor-thesis-cable-segmentation">Bachelor Thesis: "Training of Convolutional Neural Networks on Artificial Images for Cable Segmentation
 "</a>
 </h2>
