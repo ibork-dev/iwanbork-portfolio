@@ -13,7 +13,7 @@ Over the course of my life, I've completed various projects that I'd like to pre
 <a href="#sinogramreconstruction">CT Sinogram Reconstruction</a><br>
 <a href="#mrifiles">MRI Brain Data Reconstruction</a><br>
 <a href="#xai">Explainable AI</a><br>
-
+<a href="#master">Master Thesis: Comparative Analysis of Event-based Optiocal Flow</a><br>
 <a href="#bachelor">Bachelor Thesis: Segmentation of Cable</a><br>
 <a href="#chessaux">Chessaux</a><br>
 <a href="#am4ip">Image Segmentation after Denoising for Autonomous Driving</a><br>
