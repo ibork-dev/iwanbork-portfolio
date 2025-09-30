@@ -127,4 +127,13 @@ Over the course of my life, I've completed various projects that I'd like to pre
 
 ---
 
+<h2 id="portfolio">
+  <a href="https://github.com/ibork-dev/empolis-work">Empolis</a>
+</h2>
+<img src="https://github.com/ibork-dev/empolis-work/blob/main/empolis-work.png" width="400" />
+
+**Description:** Here I describe what I did during my 2 years at Empolis.
+
+---
+
 </div>
