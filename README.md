@@ -15,7 +15,7 @@ Over the course of my life, I've completed various projects that I'd like to pre
 <a href="#xai">Explainable AI</a><br>
 <a href="#master">Master Thesis: Comparative Analysis of Event-based Optiocal Flow</a><br>
 <a href="#bachelor">Bachelor Thesis: Segmentation of Cable</a><br>
-<a href="#chessaux">Chessaux</a><br>
+<a href="#chessaux">Chessaux Chess AI</a><br>
 <a href="#am4ip">Image Segmentation after Denoising for Autonomous Driving</a><br>
 <a href="#bipa2">People Detection without AI</a><br>
 <a href="#bipa1">m,n,k-Game Checker</a><br>
