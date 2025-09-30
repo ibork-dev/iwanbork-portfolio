@@ -24,7 +24,7 @@ Over the course of my life, I've completed various projects that I'd like to pre
 ### Software Engineering Projects
 
 <a href="#portfolio">Portfolio Website</a><br>
-
+<a href="#empolis">Empolis</a><br>
 
 ---
 
@@ -127,7 +127,7 @@ Over the course of my life, I've completed various projects that I'd like to pre
 
 ---
 
-<h2 id="portfolio">
+<h2 id="empolis">
   <a href="https://github.com/ibork-dev/empolis-work">Empolis</a>
 </h2>
 <img src="https://github.com/ibork-dev/empolis-work/blob/main/empolis-work.png" width="400" />
