@@ -13,6 +13,7 @@ Over the course of my life, I've completed various projects that I'd like to pre
 <a href="#sinogramreconstruction">CT Sinogram Reconstruction</a><br>
 <a href="#mrifiles">MRI Brain Data Reconstruction</a><br>
 <a href="#xai">Explainable AI</a><br>
+
 <a href="#bachelor">Bachelor Thesis: Segmentation of Cable</a><br>
 <a href="#chessaux">Chessaux</a><br>
 <a href="#am4ip">Image Segmentation after Denoising for Autonomous Driving</a><br>
@@ -52,6 +53,15 @@ Over the course of my life, I've completed various projects that I'd like to pre
 <img src="https://github.com/ibork-dev/explainable-ai/blob/main/image.png" width="400" />
 
 **Description:** Creating different explainers to show what the neural network perceives.
+
+---
+
+<h2 id="master">
+  <a href="https://github.com/ibork-dev/master-thesis-optical-flow-event-cameras">Master Thesis: "Comparative Analysis of Optical Flow Estimation Methods for RGB- and Event Cameras"</a>
+</h2>
+<img src="https://github.com/ibork-dev/master-thesis-optical-flow-event-cameras/blob/main/EventCameraData.gif" width="400" />
+
+**Description:** My Master Thesis. I worked with the Prophesee EVK4 event camera and implemented an event-based optical flow method to compare it with RGB-based optical flow.
 
 ---
  
