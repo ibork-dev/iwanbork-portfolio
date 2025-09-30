@@ -68,7 +68,7 @@ Over the course of my life, I've completed various projects that I'd like to pre
 <h2 id="chessaux">
   <a href="https://github.com/ibork-dev/explainable-ai">Chessaux</a>
 </h2>
-<img src="https://github.com/ibork-dev/chessaux/blob/main/chessaux_video.gif" width="400" />
+<img src="https://github.com/ibork-dev/chessaux/blob/main/ChessauxTrailer.gif" width="400" />
 
 **Description:** Android app lication to analyze real-time chess matches.
 
