@@ -18,6 +18,7 @@ Over the course of my life, I've completed various projects that I'd like to pre
 <a href="#am4ip">Image Segmentation after Denoising for Autonomous Driving</a><br>
 <a href="#bipa2">People Detection without AI</a><br>
 <a href="#bipa1">m,n,k-Game Checker</a><br>
+<a href="#opticalflow">Optical Flow Comparison</a><br>
 <a href="#dmmlkagglechallenge2023">Kaggle Machine Learning Challenge PPKE 2023</a><br>
 
 ### Software Engineering Projects
@@ -105,6 +106,15 @@ Over the course of my life, I've completed various projects that I'd like to pre
 </h2>
 
 **Description:** Models used during the PPKE Kaggle competition in 2023.
+
+---
+
+<h2 id="opticalflow">
+  <a href="https://github.com/ibork-dev/optical-flow-comparison">Optical Flow Comparison</a>
+</h2>
+<img src="https://github.com/ibork-dev/optical-flow-comparison/blob/main/iwan_hand_movement_dis_flow_masked_scaled.mp4.gif" width="400" />
+
+**Description:** Comparison Project between different Optical Flow methods. Implemented in Python, OpenCV and PyTorch.
 
 ---
 
