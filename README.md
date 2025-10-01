@@ -18,6 +18,7 @@ Over the course of my life, I've completed various projects that I'd like to pre
 <a href="#chessaux">Chessaux Chess AI</a><br>
 <a href="#am4ip">Image Segmentation after Denoising for Autonomous Driving</a><br>
 <a href="#bipa2">People Detection without AI</a><br>
+<a href="#yolo">People Detection with YOLO</a><br>
 <a href="#bipa1">m,n,k-Game Checker</a><br>
 <a href="#opticalflow">Optical Flow Comparison</a><br>
 <a href="#dmmlkagglechallenge2023">Kaggle Machine Learning Challenge PPKE 2023</a><br>
@@ -99,6 +100,16 @@ Over the course of my life, I've completed various projects that I'd like to pre
 <img src="https://github.com/ibork-dev/people-detection-without-ai/blob/main/output_video.gif" width="400" />
 
 **Description:** People detection using classical image processing techniques (HOG, SIFT, Kalman filtering).
+
+---
+
+
+<h2 id="yolo">
+  <a href="https://github.com/ibork-dev/people-detection-with-yolo">People Detection with YOLO</a>
+</h2>
+<img src="https://github.com/ibork-dev/people-detection-with-yolo/blob/main/YOLO_detection.gif" width="400" />
+
+**Description:** People detection competition among 5 teams (our team used the YOLO model).
 
 ---
 
