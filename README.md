@@ -27,6 +27,7 @@ Over the course of my life, I've completed various projects that I'd like to pre
 
 <a href="#portfolio">Portfolio Website</a><br>
 <a href="#3dtetris">3D Tetris in Unity</a><br>
+<a href="#pong">Unity Pong</a><br>
 <a href="#empolis">Empolis</a><br>
 
 ---
@@ -155,6 +156,15 @@ Over the course of my life, I've completed various projects that I'd like to pre
 <img src="https://github.com/ibork-dev/3D-tetris/blob/main/3DTetrisDemo.gif" width="400" />
 
 **Description:** Unity project, recreating the classical tetris game in 3D.
+
+---
+
+<h2 id="pong">
+  <a href="https://github.com/ibork-dev/unity-pong">Unity Pong</a>
+</h2>
+<img src="https://github.com/ibork-dev/unity-pong/blob/main/UnityPongDemo.gif" width="400" />
+
+**Description:** Unity project, recreating the classical Pong.
 
 ---
 
