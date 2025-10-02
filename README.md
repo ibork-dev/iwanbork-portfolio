@@ -26,6 +26,7 @@ Over the course of my life, I've completed various projects that I'd like to pre
 ### Software Engineering Projects
 
 <a href="#portfolio">Portfolio Website</a><br>
+<a href="#3dtetris">3D Tetris in Unity</a><br>
 <a href="#empolis">Empolis</a><br>
 
 ---
@@ -145,6 +146,15 @@ Over the course of my life, I've completed various projects that I'd like to pre
 <img src="https://github.com/ibork-dev/portfolio-website-iwanbork/blob/main/portfolio-website.gif" width="400" />
 
 **Description:** Personal website of Iwan Bork. Made with React (Javascript).
+
+---
+
+<h2 id="3dtetris">
+  <a href="https://github.com/ibork-dev/3D-tetris">3D Tetris in Unity</a>
+</h2>
+<img src="https://github.com/ibork-dev/3D-tetris/blob/main/3DTetrisDemo.gif" width="400" />
+
+**Description:** Unity project, recreating the classical tetris game in 3D.
 
 ---
 
