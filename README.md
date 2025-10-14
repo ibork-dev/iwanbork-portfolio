@@ -32,14 +32,14 @@ Over the course of my life, I've completed various projects that I'd like to pre
 <a href="#portfolio">Portfolio Website</a><br>
 <a href="#3dtetris">3D Tetris in Unity</a><br>
 <a href="#pong">Unity Pong</a><br>
-<a href="">Chess Desktop Application (coming soon)</a><br>
-<a href="">Spoox Room Booking (coming soon)</a><br>
+<a href="#">Chess Desktop Application (coming soon)</a><br>
+<a href="#">Spoox Room Booking (coming soon)</a><br>
 
 ### Working Experience
 <a href="#empolis">Empolis</a><br>
-<a href="">Advellence (coming soon)</a><br>
-<a href="">CITEC (coming soon)</a><br>
-<a href="">Vicomtech (coming soon)</a><br>
+<a href="#">Advellence (coming soon)</a><br>
+<a href="#">CITEC (coming soon)</a><br>
+<a href="#">Vicomtech (coming soon)</a><br>
 
 ---
 
