@@ -22,13 +22,24 @@ Over the course of my life, I've completed various projects that I'd like to pre
 <a href="#bipa1">m,n,k-Game Checker</a><br>
 <a href="#opticalflow">Optical Flow Comparison</a><br>
 <a href="#dmmlkagglechallenge2023">Kaggle Machine Learning Challenge PPKE 2023</a><br>
+<a>Biometric Recognition of handwritten Signatures (coming soon)</a><br>
+<a>3D Reconstruction from Smartphone Camera (coming soon)</a><br>
+<a>Automatic Road Damage Detection (coming soon)</a><br>
+<a>Contrast Maximization for event-based Optical Flow (coming soon)</a><br>
 
 ### Software Engineering Projects
 
 <a href="#portfolio">Portfolio Website</a><br>
 <a href="#3dtetris">3D Tetris in Unity</a><br>
 <a href="#pong">Unity Pong</a><br>
+<a>Chess Desktop Application (coming soon)</a><br>
+<a>Spoox Room Booking (coming soon)</a><br>
+
+### Working Experience
 <a href="#empolis">Empolis</a><br>
+<a>Advellence (coming soon)</a><br>
+<a>CITEC (coming soon)</a><br>
+<a>Vicomtech (coming soon)</a><br>
 
 ---
 
