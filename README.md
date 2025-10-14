@@ -22,10 +22,12 @@ Over the course of my life, I've completed various projects that I'd like to pre
 <a href="#bipa1">m,n,k-Game Checker</a><br>
 <a href="#opticalflow">Optical Flow Comparison</a><br>
 <a href="#dmmlkagglechallenge2023">Kaggle Machine Learning Challenge PPKE 2023</a><br>
-<a>Biometric Recognition of handwritten Signatures (coming soon)</a><br>
-<a>3D Reconstruction from Smartphone Camera (coming soon)</a><br>
+<a href="">Biometric Recognition of handwritten Signatures (coming soon)</a><br>
+<a href="#">3D Reconstruction from Smartphone Camera (coming soon)</a><br>
 <a>Automatic Road Damage Detection (coming soon)</a><br>
 <a>Contrast Maximization for event-based Optical Flow (coming soon)</a><br>
+
+[![coming soon](https://img.shields.io/badge/coming--soon-blue)](#)
 
 ### Software Engineering Projects
 
