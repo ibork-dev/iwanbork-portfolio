@@ -32,7 +32,7 @@ Over the course of my life, I've completed various projects that I'd like to pre
 <a href="#portfolio">Portfolio Website</a><br>
 <a href="#3dtetris">3D Tetris in Unity</a><br>
 <a href="#pong">Unity Pong</a><br>
-<a href="#">Chess Desktop Application (coming soon)</a><br>
+<a href="#gse">Chess Desktop Application</a><br>
 <a href="#">Spoox Room Booking (coming soon)</a><br>
 
 ### Working Experience
@@ -176,6 +176,15 @@ Over the course of my life, I've completed various projects that I'd like to pre
 <img src="https://github.com/ibork-dev/unity-pong/blob/main/UnityPongDemo.gif" width="400" />
 
 **Description:** Unity project, recreating the classical Pong.
+
+---
+
+<h2 id="gse">
+  <a href="https://github.com/ibork-dev/unity-pong">Chess Desktop Application</a>
+</h2>
+<img src="https://github.com/ibork-dev/chess-desktop-application/blob/master/ChessGameDemo.gif" width="400" />
+
+**Description:** Chess Desktop Application in pure Java.
 
 ---
 
