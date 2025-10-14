@@ -180,7 +180,7 @@ Over the course of my life, I've completed various projects that I'd like to pre
 ---
 
 <h2 id="gse">
-  <a href="https://github.com/ibork-dev/unity-pong">Chess Desktop Application</a>
+  <a href="https://github.com/ibork-dev/chess-desktop-application">Chess Desktop Application</a>
 </h2>
 <img src="https://github.com/ibork-dev/chess-desktop-application/blob/master/ChessGameDemo.gif" width="400" />
 
