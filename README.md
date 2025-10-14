@@ -26,6 +26,7 @@ Over the course of my life, I've completed various projects that I'd like to pre
 <a href="#">3D Reconstruction from Smartphone Camera (coming soon)</a><br>
 <a href="#">Automatic Road Damage Detection (coming soon)</a><br>
 <a href="#">Contrast Maximization for event-based Optical Flow (coming soon)</a><br>
+<a href="#"> Dart VR with Leap Motion (coming soon)</a><br>
 
 ### Software Engineering Projects
 
